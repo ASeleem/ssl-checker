@@ -1,5 +1,5 @@
  
-# Task-01
+# SSL Checker
 
 This repository contains ssl checker app
 
